@@ -1,0 +1,11 @@
+//mock data base
+
+abhinav
+hello world
+
+undefined
+undefined
+Hello, this is Abhinav Naval. How are you?
+hello this is abhinav
+hello this is abhinav
+Hello, this is Abhinav. How are you?
